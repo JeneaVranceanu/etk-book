@@ -1,1 +1,1 @@
-Here is the template repository used for this blog built: https://github.com/timlrx/tailwind-nextjs-starter-blog?tab=readme-ov-file
+Here is the template repository used to build this blog: https://github.com/timlrx/tailwind-nextjs-starter-blog?tab=readme-ov-file

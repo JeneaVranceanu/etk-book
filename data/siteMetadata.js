@@ -6,7 +6,7 @@ const siteMetadata = {
   description: 'Learning by teaching',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: '',
+  siteUrl: 'https://etk-book.vercel.app',
   siteRepo: 'https://github.com/JeneaVranceanu/etk-book',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
@@ -52,7 +52,7 @@ const siteMetadata = {
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus, beehive
     // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
+    // provider: 'buttondown',
   },
   comments: {
     // If you want to use an analytics provider you have to add it to the
